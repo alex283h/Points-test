@@ -1,2 +1,0 @@
-Train MED = 121.4084
-Bottom MED = 140.2094

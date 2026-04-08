@@ -1,6 +1,0 @@
- # it was error in file name: camera_door2_2025-12-19_09-28-36\coords_top.json
-    # it was - coodrs_top.json
-
-some points have not be matched
-
-correct paths in jsons
